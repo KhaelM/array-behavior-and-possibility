@@ -1,0 +1,4 @@
+=> char[] is a structure, a specific section of memory, it allows indexing (string[0] = 'a' allowed)
+=> char[] value cannot be changed:
+    string++ not allowed
+    string = anotherString not allowed
