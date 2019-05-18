@@ -1,0 +1,3 @@
+=> char* string cannot be modified once declared (string[index] = 'a' not allowed )
+=> char* is variable initialized with a number which is the address of the first element of the string.
+    Thus we can change its value to an other number so this is allowed string++ as it will point to the next char
