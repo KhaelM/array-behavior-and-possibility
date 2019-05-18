@@ -1,0 +1,6 @@
+=> array value equals the address of first element (array = &array[0])
+=> Address spacing(x64-bit):
+    int: 4
+    float: 4
+    double: 8
+    char: 1
