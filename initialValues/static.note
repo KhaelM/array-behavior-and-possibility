@@ -1,0 +1,4 @@
+Array initial values:
+=> function(main or whatever function) : garbage values
+=> static: 0
+=> global: 0
