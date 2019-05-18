@@ -1,2 +1,0 @@
- => It's possible to set the value of an array starting from a specified index by using [startingIndex] :
-    The next value will be the value of the next index
